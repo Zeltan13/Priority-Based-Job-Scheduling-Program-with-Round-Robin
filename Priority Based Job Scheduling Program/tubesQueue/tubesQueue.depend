@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673438946 source:c:\kuliah tel u\c++\tubesqueue\main.cpp
+	"tubesQueue.h"
+
+1673429719 c:\kuliah tel u\c++\tubesqueue\tubesqueue.h
+	<iostream>
+
+1673519345 source:c:\kuliah tel u\c++\tubesqueue\tubesqueue.cpp
+	"tubesQueue.h"
+
